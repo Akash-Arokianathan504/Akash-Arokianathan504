@@ -76,5 +76,5 @@ My work spans **data engineering, analytics engineering, and applied machine lea
 
 ## 🌐 Connect With Me
 
-- 💼 [LinkedIn](www.linkedin.com/in/akash-arokianathan)
+- 💼 [LinkedIn](https://www.linkedin.com/in/akash-arokianathan)
 - 📄 Resume (PDF – coming soon)
